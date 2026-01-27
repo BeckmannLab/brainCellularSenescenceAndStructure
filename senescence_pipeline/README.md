@@ -6,7 +6,7 @@ This script requires the following helper functions:
 - `functions/processOneAssay_edgeR.R`
 
 The following scripts were used in the paper to define senescence in specific datasets. These scripts adapt the general pipeline to individual datasets and perform dataset-specific senescence definition and differential expression (DE) analyses:
-- `DE_analyses/Binary_DE/BrainSCOPE/DE_jobs_bs.R` BrainSCOPE
+- `data_processing/BrainSCOPE/` BrainSCOPE
 - `DE_analyses/Binary_DE/Chan/Chan_validation.R` Chan et al
 - `DE_analyses/Binary_DE/Herring/Herring_DE.R` Herring et al (neurodevelopment)
 - `DE_analyses/Binary_DE/LBP/liv_sen_DE.R` LBP biopsy
