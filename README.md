@@ -44,7 +44,7 @@ This study also incorporates data from previously published cohorts and public r
 - **MSBB**: Synapse syn7416949  
 
 
-### Reproducibility Notes
+### Repository Notes
 
 - Scripts in `senescence_pipeline/` provide a general example of the senescence definition workflow.
 - Dataset-specific scripts reproduce analyses as performed in the manuscript but may require dataset-specific preprocessing, metadata, and access permissions.
